@@ -1,0 +1,3 @@
+student name: Rick Onderwater
+student number: 699181
+student class: Inf1B
